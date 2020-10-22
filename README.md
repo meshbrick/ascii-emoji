@@ -1,30 +1,36 @@
 ```
 ʘ‿ʘ
-Innocent face 
+innocent face 
 
 ಠ_ಠ
-Reddit disapproval face 
+reddit disapproval face 
 
 (╯°□°）╯︵ ┻━┻
-Table Flip / Flipping Table 
+table flip / flipping table 
 
 ┬─┬﻿ ノ( ゜-゜ノ)
-Put the table back
+put the table back
 
 ┬─┬⃰͡ (ᵔᵕᵔ͜ )
-Tidy up / dust the table
+tidy up / dust the table
 
 ┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
-Double Flip / Double Angry
+double Flip / double angry
 
 ლ(｀ー´ლ)
-Fisticuffs
+fisticuffs
 
 ʕ•ᴥ•ʔ
-Cute bear 
+cute bear 
+
+ʕᵔᴥᵔʔ
+squinting bear
+
+ʕ •`ᴥ•´ʔ
+GTFO Bear
 
 (｡◕‿◕｡)
-Cute face with big eyes 
+cute face with big eyes 
 
 （　ﾟДﾟ）
 surprised / loudmouthed 
@@ -41,6 +47,9 @@ feel perky
 (╬ ಠ益ಠ)
 angry face
 
+ლ(ಠ益ಠლ)
+at what cost
+
 ☜(⌒▽⌒)☞
 excited 
 
@@ -56,14 +65,14 @@ basking in glory
 ᵒᴥᵒ#
 kitty emote
 
-V●ᴥ●V
+V•ᴥ•V
 fido
 
 ฅ^•ﻌ•^ฅ
 meow
 
 （ ^_^）o自自o（^_^ ）
-Cheers  
+cheers  
 
 ಠ‿ಠ
 devious smile
@@ -113,7 +122,7 @@ worried
 щ（ﾟДﾟщ）
 dear god why  
 
-٩(͡๏_๏)۶
+٩(๏_๏)۶
 staring 
 
 ఠ_ఠ
@@ -192,14 +201,29 @@ Kissing
 shark face / jagged mustache
 
 ヾ(-_- )ゞ
+emo dance 
+
+♪♪ ヽ(ˇ∀ˇ )ゞ
 dance 
+
+ヾ(´〇`)ﾉ♪♪♪
+opera
 
 ʕ •́؈•̀ ₎
 winnie the pooh
 
+ʕ •́؈•̀)
+winnie the pooh
+
 ლ(•́•́ლ)
-boxing / fight
-  
+boxing
+
+(ง'̀-'́)ง
+fight
+
+◖ᵔᴥᵔ◗ ♪ ♫ 
+listening to headphones
+
 {•̃_•̃}
 robot
 
@@ -229,6 +253,87 @@ injured
 
 ƪ(ړײ)‎ƪ​​
 creeper
+
+⥀.⥀
+eye roll
+
+ح˚௰˚づ 
+flying
+
+♨_♨
+things that can't be unseen
+
+(._.)
+looking down
+
+(⊃｡•́‿•̀｡)⊃
+im a hugger
+
+(∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+wizard
+
+(っ˘ڡ˘ς)
+yum
+
+( ఠ ͟ʖ ఠ)
+judging
+
+( ͡ಠ ʖ̯ ͡ಠ)
+tired / older
+
+( ಠ ʖ̯ ಠ)
+dislike / depressed
+
+(งツ)ว
+hitchhiking
+
+(◠﹏◠)
+satisfied
+
+(ᵟຶ︵ ᵟຶ)
+sad and crying
+
+(っ▀¯▀)つ
+stunna shades
+
+ʚ(•｀
+chicken
+
+(´ж｀ς)
+barf
+
+(° ͜ʖ͡°)╭∩╮
+fuck off
+
+ʕʘ̅͜ʘ̅ʔ
+smiley toast
+
+ح(•̀ж•́)ง † 
+exorcism
+
+-`ღ´-
+love
+
+(⩾﹏⩽)
+taking a dump / straining
+
+ヽ( •_)ᕗ
+dab
+
+~(^-^)~
+Wave Dance
+
+\(ᵔᵕᵔ)/
+Happy Hug
+
+ᴖ̮ ̮ᴖ
+resting my eyes
+
+ಠಠ
+peepers
+
+{ಠʖಠ}
+judgemental
 ```
 
 Note:
